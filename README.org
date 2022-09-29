@@ -1,0 +1,7 @@
+#+title: Readme
+
+* Resources
+- https://orgmode.org/worg/dev/org-export-reference.html
+- https://github.com/grc/jujutsu-website/blob/master/elisp/ox-jujutsu-site.el
+- https://gileschamberlin.wordpress.com/2020/02/25/writing-a-new-org-mode-exporter-back-end/
+- https://github.com/dakrone/ox-tufte/blob/master/ox-tufte.el
